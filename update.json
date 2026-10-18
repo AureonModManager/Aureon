@@ -1,6 +1,6 @@
 {
-  "version": "1.8.13",
-  "notes": "Aureon v1.8.13 — Automatic Seasonal Themes\n- Automatic seasonal themes based on the Windows date: Halloween (October–November), Christmas (December–February), and Classic (March–September).\n- New Appearance options in Settings: Auto, Classic, Halloween, and Christmas.\n- All theme artwork is bundled for offline switching without reinstalling the app.\n- Automatic update notifications remain available.\n- Existing modpacks and profiles are retained during a standard upgrade.",
-  "installer_url": "https://github.com/AureonModManager/Aureon/releases/download/v1.8.13/AureonSetup_v1.8.13.exe",
-  "sha512": "0c7e46f9251fe0f6dcb3082341516f8f1626af62d579c0986062936a882399004399160a3d0a25fe9867287146683b0293bf5a3569143dc78bee25b5dabd9c84"
+  "version": "1.8.14",
+  "notes": "Aureon v1.8.14 — Christmas Banner Update\n- Replaced the Christmas home banner with detailed Minecraft-style winter village artwork.\n- Updated three Christmas profile thumbnails to match the new visual style.\n- Automatic seasonal themes (Classic / Halloween / Christmas) remain available.\n- Automatic update notifications and existing mod-management functionality are retained.",
+  "installer_url": "https://github.com/AureonModManager/Aureon/releases/download/v1.8.14/AureonSetup_v1.8.14.exe",
+  "sha512": "0d3d76a2641a4e73cac2d6a5e35d6bb2a96e6bbef2ad2ef8872eab474c54a9a39d9bd50041ab856dff2a2aac0c4d092b20d65889850a85e4dde190b22f2eba8e"
 }
