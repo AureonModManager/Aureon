@@ -1,6 +1,6 @@
 {
-  "version": "1.8.11",
-  "notes": "Aureon v1.8.11 — Halloween Auto Update\n- Automatic update checks on startup and once every hour.\n- In-app Update Available notice with Update Now and Later actions.\n- Installed updater verifies the SHA-512 hash of downloaded installers.\n- Clean Halloween theme retained without unwanted sidebar decorations.\nPre-release: The startup update flow still needs full Windows testing.",
-  "installer_url": "https://github.com/AureonModManager/Aureon/releases/download/1.8.11/AureonSetup_v1.8.11_Halloween_AutoUpdate.exe",
-  "sha512": "5385ddcdf39fc5f567350a552a19531265777be228027c174c763b44b10150fb56a5e03622053c608c660518a9da707de29b76cc1f072b40f8ff28f238574a4f"
+  "version": "1.8.12",
+  "notes": "Aureon v1.8.12 — Auto Update Notification Test\n- Test release for automatic update notifications in Aureon v1.8.11.\n- Retains the Halloween Clean UI and mod-management features.\n- Adds a retry for startup update checks when another operation temporarily blocks the first check.\n- Use Update Now or Later to test the notification flow.\nPre-release: Windows notification and installer flow requires confirmation on a real Windows system.",
+  "installer_url": "https://github.com/AureonModManager/Aureon/releases/download/v1.8.12/AureonSetup_v1.8.12_Notification_Test.exe",
+  "sha512": "e030836b204ee911304ce0154350bcf4b9ee8d8213365647eb94bc46973737d9c2f1ccc3372aeab6b4afacc7b582cfd479609519d7bb147b8b8b7e1c1ed2b128"
 }
