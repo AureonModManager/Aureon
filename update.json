@@ -1,6 +1,6 @@
 {
-  "version": "1.8.12",
-  "notes": "Aureon v1.8.12 — Auto Update Notification Test\n- Test release for automatic update notifications in Aureon v1.8.11.\n- Retains the Halloween Clean UI and mod-management features.\n- Adds a retry for startup update checks when another operation temporarily blocks the first check.\n- Use Update Now or Later to test the notification flow.\nPre-release: Windows notification and installer flow requires confirmation on a real Windows system.",
-  "installer_url": "https://github.com/AureonModManager/Aureon/releases/download/v1.8.12/AureonSetup_v1.8.12_Notification_Test.exe",
-  "sha512": "e030836b204ee911304ce0154350bcf4b9ee8d8213365647eb94bc46973737d9c2f1ccc3372aeab6b4afacc7b582cfd479609519d7bb147b8b8b7e1c1ed2b128"
+  "version": "1.8.13",
+  "notes": "Aureon v1.8.13 — Automatic Seasonal Themes\n- Automatic seasonal themes based on the Windows date: Halloween (October–November), Christmas (December–February), and Classic (March–September).\n- New Appearance options in Settings: Auto, Classic, Halloween, and Christmas.\n- All theme artwork is bundled for offline switching without reinstalling the app.\n- Automatic update notifications remain available.\n- Existing modpacks and profiles are retained during a standard upgrade.",
+  "installer_url": "https://github.com/AureonModManager/Aureon/releases/download/v1.8.13/AureonSetup_v1.8.13.exe",
+  "sha512": "0c7e46f9251fe0f6dcb3082341516f8f1626af62d579c0986062936a882399004399160a3d0a25fe9867287146683b0293bf5a3569143dc78bee25b5dabd9c84"
 }
