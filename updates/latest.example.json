@@ -1,0 +1,6 @@
+{
+  "version": "1.8.5",
+  "notes": "Compatible mod search by Minecraft version and mod loader. Resource packs can be added while Minecraft is running.",
+  "installer_url": "https://github.com/AureonModManager/Aureon/releases/download/v1.8.5/AureonSetup_v1.8.5.exe",
+  "sha512": "743a1612f887c7f65233b15b3738fde7438d91642251472c2bfd9e6da75ecd63b9a4fbba8044bcc9d7e0247dce1884f5bfc18dafb695b6f179994521a9c5afe9"
+}
