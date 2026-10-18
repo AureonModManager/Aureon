@@ -1,6 +1,6 @@
 {
-  "version": "1.8.6",
-  "notes": "Aureon v1.8.6 — Update System\n- Corrected application version detection.\n- Added GitHub update channel integration.\n- Prepared patch notes and future Update & Restart notifications.\n- Improved compatibility with older installations.\nNote: This is an experimental pre-release.",
-  "installer_url": "https://github.com/AureonModManager/Aureon/releases/download/v1.8.6/AureonSetup_v1.8.6.exe",
-  "sha512": "31b81ecbabef988f3facab5a079c14ad05f8081c7ceb435ec412178caec6974656ebcf4cbc4b658b6f0b90739540d0c5e1809208142d06f34fa32ab16d6d112f"
+  "version": "1.8.7",
+  "notes": "Aureon v1.8.7 — Halloween Update\n- Seasonal orange-and-black color scheme replaces pink accents.\n- Flatter orange buttons, profile highlights and navigation elements.\n- Orange accents in the installer and selected UI controls.\n- Existing profiles, mods and worlds are kept during a standard update.\nNote: The decorative Minecraft pumpkins shown in the design mockup are not included in this application build. This is a pre-release.",
+  "installer_url": "https://github.com/AureonModManager/Aureon/releases/download/v1.8.7/AureonSetup_v1.8.7_Halloween.exe",
+  "sha512": "b24fa2cd9c201f07b97ed5a9a5dc1438becfd8739a51206efc1a8bc83e8578e068da3b8119b97c193f76f03590aed6c3d7c92eb567ff14254a585d7cf57a3409"
 }
