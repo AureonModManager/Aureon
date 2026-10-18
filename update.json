@@ -1,0 +1,6 @@
+{
+  "version": "1.8.6",
+  "notes": "Aureon v1.8.6 — Update System\n- Corrected application version detection.\n- Added GitHub update channel integration.\n- Prepared patch notes and future Update & Restart notifications.\n- Improved compatibility with older installations.\nNote: This is an experimental pre-release.",
+  "installer_url": "https://github.com/AureonModManager/Aureon/releases/download/v1.8.6/AureonSetup_v1.8.6.exe",
+  "sha512": "31b81ecbabef988f3facab5a079c14ad05f8081c7ceb435ec412178caec6974656ebcf4cbc4b658b6f0b90739540d0c5e1809208142d06f34fa32ab16d6d112f"
+}
