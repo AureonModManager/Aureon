@@ -1,6 +1,6 @@
 {
-  "version": "1.8.9",
-  "notes": "Aureon v1.8.9 — Halloween Clean UI Update\n- Removed the two large decorative pumpkins from the bottom corners.\n- Removed autumn-leaf decorations from the sidebar and navigation categories.\n- Simplified the Halloween interface while keeping the orange Aureon logo, buttons and Minecraft Halloween banner.\n- Preserved mod-management functionality and existing packs during a standard update.\nPre-release: The installation and updater have not been fully tested on Windows.",
-  "installer_url": "https://github.com/AureonModManager/Aureon/releases/download/v1.8.9/AureonSetup_v1.8.9_Halloween_Clean.2.exe",
-  "sha512": "b662f70afe1aeabfb35c8f813a1814763bb09c0cf96bad8be256b94ddf8eca623d5c5433ab650ce789690d449f41c4c142c1f10e8e8236fa70b304a5fca364f9"
+  "version": "1.8.11",
+  "notes": "Aureon v1.8.11 — Halloween Auto Update\n- Automatic update checks on startup and once every hour.\n- In-app Update Available notice with Update Now and Later actions.\n- Installed updater verifies the SHA-512 hash of downloaded installers.\n- Clean Halloween theme retained without unwanted sidebar decorations.\nPre-release: The startup update flow still needs full Windows testing.",
+  "installer_url": "https://github.com/AureonModManager/Aureon/releases/download/1.8.11/AureonSetup_v1.8.11_Halloween_AutoUpdate.exe",
+  "sha512": "5385ddcdf39fc5f567350a552a19531265777be228027c174c763b44b10150fb56a5e03622053c608c660518a9da707de29b76cc1f072b40f8ff28f238574a4f"
 }
