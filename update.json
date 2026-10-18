@@ -1,6 +1,6 @@
 {
-  "version": "1.8.7",
-  "notes": "Aureon v1.8.7 — Halloween Update\n- Seasonal orange-and-black color scheme replaces pink accents.\n- Flatter orange buttons, profile highlights and navigation elements.\n- Orange accents in the installer and selected UI controls.\n- Existing profiles, mods and worlds are kept during a standard update.\nNote: The decorative Minecraft pumpkins shown in the design mockup are not included in this application build. This is a pre-release.",
-  "installer_url": "https://github.com/AureonModManager/Aureon/releases/download/v1.8.7/AureonSetup_v1.8.7_Halloween.exe",
-  "sha512": "b24fa2cd9c201f07b97ed5a9a5dc1438becfd8739a51206efc1a8bc83e8578e068da3b8119b97c193f76f03590aed6c3d7c92eb567ff14254a585d7cf57a3409"
+  "version": "1.8.8",
+  "notes": "Aureon v1.8.8 — Halloween UI Fix\n- Fixed pink Aureon logo; now orange in the app and desktop icon.\n- Added actual Halloween Minecraft jack-o'-lantern artwork to the home banner and UI decorations.\n- Added autumn leaves and refreshed profile thumbnails.\n- Refined orange buttons, highlights and panels with fewer gradients.\n- Existing modpacks, settings and worlds are preserved by the standard installer.\nPre-release: Visuals and update process have not yet been fully tested on Windows.",
+  "installer_url": "https://github.com/AureonModManager/Aureon/releases/download/v1.8.8/AureonSetup_v1.8.8_Halloween.exe",
+  "sha512": "a8f09f346f28088e7c726a0337e7dffa2df430f65d017e002d0e39f3e153697fef66bc85a6b3efaf2353375b51b57e9d3688fcca36e8a0e7cc7ed9c84cd1f3a7"
 }
